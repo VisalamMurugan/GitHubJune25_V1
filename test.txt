@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EC51-19F9
+
+ Directory of C:\Users\124454\Desktop\Github\GitHubJune25_V1
+
+06/25/2020  12:42 PM    <DIR>          .
+06/25/2020  12:42 PM    <DIR>          ..
+06/25/2020  12:42 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  162,479,534,080 bytes free
