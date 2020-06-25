@@ -8,3 +8,4 @@
 06/25/2020  12:42 PM                 0 test.txt
                1 File(s)              0 bytes
                2 Dir(s)  162,479,534,080 bytes free
+We are done
